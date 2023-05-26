@@ -1,6 +1,6 @@
 # Weather_forecasting_app_using_node
 
-
+Install all Node Modules 
 Installation
 
 1.Clone or download the repository.
@@ -16,6 +16,7 @@ npm run test
 
 
 User Interface
+
 Type the city you are looking for
 Click Go button
 The app show information about the location and forecast of the city
